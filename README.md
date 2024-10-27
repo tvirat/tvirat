@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on a full stack personal project.<br>👯 I’m looking to collaborate on any interesting projects.<br>🌱 I’m currently learning Next.js<br>📫 How to reach me LinkedIn (https://www.linkedin.com/in/virattalan/).<br>⚡ Fun fact: I am Quadrilingual.
+🔭 I’m currently working on a full stack personal project.<br>👯 I’m looking to collaborate on any interesting projects.<br>🌱 I’m currently learning Next.js<br>📫 How to reach me LinkedIn (https://www.linkedin.com/in/virattalan/).<br> 😄 Pronouns: He/Him <br>⚡ Fun fact: I am Quadrilingual.
 
 
 ## 🌐 Socials:
